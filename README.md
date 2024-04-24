@@ -2,7 +2,7 @@
 
 <h2>👨‍💻Projects:</h2>
 
-- <b>Javascript and HTML (SQL & PHP in the future) </b>
+- <b>Javascript and HTML for now</b>
   - [Restaurant Ordering cum Management System Website](https://github.com/sawpykt/res_realthai_project)
 - <b>Python</b>
   - [Simple pong game](https://github.com/sawpykt/pygame_projects)
