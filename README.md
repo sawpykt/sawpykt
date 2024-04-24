@@ -10,7 +10,7 @@
 <h2>Summary of project</h2>
 
 - <b>Restaurant Website</b>
-  - Started this project based on the difficulties my co-workers and I faced working and also incorporated customers' feedbacks. With technology, I believe the restaurant can be run more efficiently. Currently a work in progress.
+  - I started this project based on the difficulties my co-workers and I faced working and also incorporated customers' feedbacks. With technology, I believe the restaurant can be run more efficiently. Currently a work in progress.
 
 <h2>Beginner in</h2>
 <p align="center">
