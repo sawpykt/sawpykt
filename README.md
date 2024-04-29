@@ -3,7 +3,7 @@
 <h2>👨‍💻Projects:</h2>
 
 - <b>Javascript and HTML for now</b>
-  - [Restaurant Ordering cum Management System Website](https://github.com/sawpykt/res_realthai_project)
+  - [Restaurant Ordering cum Management System Website](https://github.com/sawpykt/thai_project/tree/main)
 - <b>Python</b>
   - [Simple pong game](https://github.com/sawpykt/pygame_projects)
 
