@@ -4,6 +4,11 @@
 
 - <b>Javascript and HTML for now</b>
   - [Restaurant Ordering cum Management System Website](https://github.com/sawpykt/rest_proj)
+```diff
++ Privated this respository. Please email me to make it public again.
+```
+   
+    
 - <b>Python</b>
   - [Simple pong game](https://github.com/sawpykt/pygame_projects)
 
