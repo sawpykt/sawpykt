@@ -4,9 +4,7 @@
 
 - <b>Javascript and HTML for now</b>
   - [Restaurant Ordering cum Management System Website](https://github.com/sawpykt/rest_proj)
-```diff
-+ Privated this respository. Please email me to make it public again.
-```
+
    
     
 - <b>Python</b>
